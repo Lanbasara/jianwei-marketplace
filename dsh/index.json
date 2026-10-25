@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Jianwei",
+    "zh": "见微 Jianwei"
+  },
+  "description": {
+    "en": "Investment data and research skills for native agents.",
+    "zh": "见微专属市场：探源数据能力与专业投资研究 skills。"
+  },
+  "plugins": [
+    {
+      "name": "jianwei",
+      "title": {
+        "en": "Jianwei",
+        "zh": "见微 Jianwei"
+      },
+      "description": "见微：探源数据能力与专业投资研究 skills，使用宿主原生多 agent。",
+      "author": "Lanbasara",
+      "homepage": "https://github.com/Lanbasara/jianwei",
+      "repository": {
+        "url": "https://github.com/Lanbasara/jianwei"
+      },
+      "metadata": {
+        "keywords": [
+          "investment",
+          "research",
+          "tanyuan",
+          "投资",
+          "研究",
+          "探源"
+        ]
+      },
+      "dist-tags": {
+        "latest": "0.1.1"
+      },
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishTimestamp": 1792896894,
+          "engines": {
+            "dsh": ">=0.2.1-rc.3 <0.3.0"
+          },
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Lanbasara/jianwei.git",
+            "commit": "a82a25dd0e521f23b01bccbe04dafd47e0b4ac16"
+          }
+        }
+      ]
+    }
+  ]
+}
