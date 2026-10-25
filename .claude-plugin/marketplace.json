@@ -1,0 +1,18 @@
+{
+  "name": "jianwei",
+  "description": "见微 Jianwei 专属投资研究插件目录",
+  "owner": {
+    "name": "Lanbasara"
+  },
+  "plugins": [
+    {
+      "name": "jianwei",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Lanbasara/jianwei.git",
+        "ref": "v0.1.0"
+      },
+      "description": "见微：探源数据能力与专业投资研究 skills"
+    }
+  ]
+}
