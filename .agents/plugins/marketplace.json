@@ -10,8 +10,8 @@
         "source": "git-subdir",
         "url": "https://github.com/Lanbasara/jianwei.git",
         "path": "./plugin",
-        "sha": "32a7eca6b7d26bc7bdb9e27f480e1ecb0c0b1951",
-        "ref": "v0.2.2"
+        "sha": "cd30deac7efb1253b24ef99ed0eb8687a7f5cc8e",
+        "ref": "v0.2.3"
       },
       "description": "见微：探源数据、专业投资研究与 HTML 研报 skills，使用宿主原生多 agent。",
       "policy": {
