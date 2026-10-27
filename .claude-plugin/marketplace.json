@@ -11,8 +11,8 @@
         "source": "git-subdir",
         "url": "https://github.com/Lanbasara/jianwei.git",
         "path": "plugin",
-        "sha": "1fd031ae8407015f45ca9dfad888badae5e80fc6",
-        "ref": "v0.2.6"
+        "sha": "42a092a576813ca07231ab3a0d46bf3ff5cd1812",
+        "ref": "v0.2.7"
       },
       "description": "见微：探源数据、专业投资研究、投资建议与 HTML 研报 skills，使用宿主原生多 agent。"
     }
