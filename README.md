@@ -2,7 +2,7 @@
 
 Jianwei 专属目录，独立于其他 marketplace。市场名：`jianwei`。
 
-产品与完整安装说明：[Jianwei](https://github.com/Lanbasara/jianwei/blob/v0.2.8/plugin/INSTALL.md)。
+产品与完整安装说明：[Jianwei](https://github.com/Lanbasara/jianwei/blob/v0.3.0/plugin/INSTALL.md)。
 
 ```bash
 claude plugin marketplace add Lanbasara/jianwei-marketplace
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/Lanbasara/jianwei-marketplace/main/dsh/index.j
 CLI 直接安装仍可使用（profile 按实际情况替换）：
 
 ```bash
-dsh plugin --profile web add 'git+https://github.com/Lanbasara/jianwei.git#v0.2.8&path:/plugin'
+dsh plugin --profile web add 'git+https://github.com/Lanbasara/jianwei.git#v0.3.0&path:/plugin'
 ```
 
 Python 环境和凭据需按产品说明首次配置。
