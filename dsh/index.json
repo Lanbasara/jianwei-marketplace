@@ -32,9 +32,22 @@
         ]
       },
       "dist-tags": {
-        "latest": "0.5.0"
+        "latest": "0.5.1"
       },
       "versions": [
+        {
+          "version": "0.5.1",
+          "publishTimestamp": 1794497659,
+          "engines": {
+            "dsh": ">=0.2.1-rc.3 <0.3.0"
+          },
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Lanbasara/jianwei.git",
+            "commit": "3d87454160c5ad2f99fac33b98ffb12a140c8650",
+            "path": "plugin"
+          }
+        },
         {
           "version": "0.5.0",
           "publishTimestamp": 1794470325,
